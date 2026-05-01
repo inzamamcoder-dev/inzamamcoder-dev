@@ -1,45 +1,13 @@
 <div align="center">
 
-<!-- Animated Banner — Matrix green + gold scheme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A1A0A,40:00FF88,100:FFD700&height=200&section=header&text=Abdul%20Islam&fontSize=80&fontColor=0A1A0A&animation=blinking&fontAlignY=55&desc=PHP%20Engineer%20%7C%20WordPress%20Architect%20%7C%20Web%20Craftsman&descAlignY=75&descAlign=50&descSize=16&descColor=0A1A0A" />
+<!-- Banner: Deep ocean blue + teal -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:001F3F,50:00B4D8,100:90E0EF&height=200&section=header&text=Inzamam&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=PHP%20Developer%20%7C%20WordPress%20Specialist%20%7C%20Digital%20Solutions%20Builder&descAlignY=68&descAlign=50&descSize=16&descColor=90E0EF" />
 
 </div>
 
 <div align="center">
 
-<!-- Typing SVG — green terminal theme -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Abdul+Islam+⚡;PHP+Engineer+%7C+WordPress+Architect;Crafting+the+Web%2C+One+Line+at+a+Time+🛠️)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Social badges — green/gold palette -->
-<a href="mailto:abdulislam@email.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://abdulislam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=firefox-browser&logoColor=0A1A0A" />
-</a>
-&nbsp;
-<a href="https://twitter.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=26&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there!+I'm+Inzamam+🌊;PHP+Developer+%7C+WordPress+Specialist;Delivering+Clean%2C+Scalable+Web+Solutions+💧)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,47 +15,43 @@
 
 ---
 
-## ⚡ About Me
+## 🌊 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-```bash
-$ whoami
-> Abdul Islam
-
-$ cat profile.yaml
----
-Name        : Abdul Islam
-Role        : PHP Engineer & WordPress Architect
-Location    : 🇵🇰 Pakistan → 🌍 Working Worldwide
-Experience  : 4+ Years in PHP & WordPress
-Passion     : Crafting Robust, Scalable Web Solutions
-Status      : Open to International Projects ✅
----
+```json
+{
+  "name"      : "Inzamam",
+  "role"      : "PHP Developer & WordPress Specialist",
+  "location"  : "🇵🇰 Pakistan → 🌍 Global",
+  "experience": "4+ Years",
+  "stack"     : ["PHP", "WordPress", "Laravel", "WooCommerce"],
+  "available" : true,
+  "passion"   : "Delivering elegant solutions to complex problems"
+}
 ```
 
 <br/>
 
-- 🔭 Currently building: **custom WordPress plugins & PHP SaaS apps**
-- 🌱 Deep diving into: **Laravel advanced patterns, Headless WP, Docker**
-- 💡 Focused on: **WordPress architecture, WooCommerce & PHP backends**
-- 🤝 Looking to collaborate on: **WordPress & PHP-powered platforms**
-- 🎯 Goal: **Engineer clean, scalable solutions that stand the test of time**
-- 📬 Reach me at: **abdulislam@email.com**
+- 🔭 Currently building: **scalable WordPress themes & PHP web apps**
+- 🌱 Leveling up in: **Laravel ecosystem, REST APIs, Headless CMS**
+- 💡 Core expertise: **PHP engineering, WordPress & WooCommerce**
+- 🤝 Open to: **Remote PHP & WordPress projects worldwide**
+- 🎯 Goal: **Build solutions that are beautiful under the hood**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ What I Bring to the Table
+## 🏄 What I Bring
 
 <div align="center">
 
-| 🧱 WordPress Expert | 🐘 PHP Engineering | ⚡ Fast Delivery | 🌐 Global Ready |
+| 🌊 WordPress Pro | 🐘 PHP Expert | ⚡ Swift Delivery | 🌐 Global Mindset |
 |:---:|:---:|:---:|:---:|
-| Custom Themes & Plugins | OOP & Design Patterns | Agile Sprints | Remote-First ✅ |
-| WooCommerce Development | Laravel / CodeIgniter | CI/CD Automation | Timezone Flexible |
-| Gutenberg Block Dev | REST & GraphQL APIs | Code Reviews | Fluent English |
+| Custom Themes & Plugins | OOP & Clean Code | Agile Sprints | Remote-First ✅ |
+| WooCommerce Builds | Laravel / CodeIgniter | CI/CD Ready | Timezone Flexible |
+| Gutenberg & ACF | REST / GraphQL | Performance Focus | Clear Communication |
 
 </div>
 
@@ -105,14 +69,14 @@ Status      : Open to International Projects ✅
 ### 🌐 WordPress Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ACF-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACF-00B4D8?style=for-the-badge&logo=wordpress&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gutenberg-001F3F?style=for-the-badge&logo=wordpress&logoColor=90E0EF" />
 </p>
 
 ### 🎨 Frontend
@@ -138,12 +102,12 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulislam&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&icon_color=FFD700&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulislam&theme=chartreuse-dark&hide_border=true&background=0D1F0D&stroke=00FF88&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF88" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inzamam&show_icons=true&theme=ocean_dark&hide_border=true&bg_color=001F3F&title_color=00B4D8&icon_color=90E0EF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=inzamam&theme=ocean_dark&hide_border=true&background=001F3F&stroke=00B4D8&ring=90E0EF&fire=00B4D8&currStreakLabel=90E0EF" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulislam&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam&layout=compact&theme=ocean_dark&hide_border=true&bg_color=001F3F&title_color=00B4D8&text_color=ffffff" />
 
 </div>
 
@@ -153,7 +117,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulislam&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=inzamam&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
@@ -163,7 +127,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulislam&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&color=00FF88&line=FFD700&point=FF6B6B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inzamam&theme=ocean-dark&hide_border=true&bg_color=001F3F&color=00B4D8&line=90E0EF&point=ffffff" />
 
 </div>
 
@@ -184,31 +148,31 @@ Status      : Open to International Projects ✅
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   🐘  Custom PHP Development        🔌  WordPress Plugin Dev      ║
-║   🎨  WordPress Theme Engineering   🛒  WooCommerce Solutions     ║
-║   🔗  REST / GraphQL APIs           ☁️  Cloud Deployment (AWS)    ║
-║   🔄  Third-Party Integrations      📊  Admin Dashboards          ║
-║   🚀  MVP to Production             🔧  Speed & SEO Optimization  ║
-║   🏗️  Laravel / CodeIgniter Apps    🤖  Automation & Scripting    ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+┌━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┐
+┃                                                                   ┃
+┃   🌊  Custom PHP Development        🔌  WordPress Plugin Dev      ┃
+┃   🎨  WordPress Theme Engineering   🛒  WooCommerce Solutions     ┃
+┃   🔗  REST / GraphQL APIs           ☁️  Cloud Deployment (AWS)    ┃
+┃   🔄  Third-Party Integrations      📊  Admin Dashboards          ┃
+┃   🚀  MVP to Production             🔧  Speed & SEO Optimization  ┃
+┃   🏗️  Laravel / CodeIgniter Apps    🤖  Automation & Scripting    ┃
+┃                                                                   ┃
+└━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┘
 ```
 
 </div>
 
 ---
 
-## 🌍 Global Collaboration
+## 🌍 Availability
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Available%20For-Freelance-00FF88?style=for-the-badge&logo=freelancer&logoColor=0A1A0A" />
+<img src="https://img.shields.io/badge/Available%20For-Freelance-00B4D8?style=for-the-badge&logo=freelancer&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-FFD700?style=for-the-badge&logo=zoom&logoColor=0A1A0A" />
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-001F3F?style=for-the-badge&logo=zoom&logoColor=90E0EF" />
 &nbsp;
-<img src="https://img.shields.io/badge/Response%20Time-Under%2024hrs-orange?style=for-the-badge&logo=clockify" />
+<img src="https://img.shields.io/badge/Response-Under%2024hrs-90E0EF?style=for-the-badge&logo=clockify&logoColor=001F3F" />
 
 </div>
 
@@ -226,76 +190,44 @@ Status      : Open to International Projects ✅
 
 ## 🧩 Fun Facts
 
-- ⚡ I treat every project like a **product** — not just a task
-- 🐘 PHP is my mother tongue — I've been writing it for **4+ years** and it still excites me
-- 🔌 Built **30+ WordPress plugins** from scratch with clean, documented code
-- 🛒 WooCommerce is my playground — custom gateways, shipping rules, you name it
-- 📚 I learn something new **every single day**
-- 🌙 Peak productivity hits after **10 PM** — classic night owl 🦉
+- 🌊 I write PHP the way water flows — **naturally and without friction**
+- 🐘 4+ years of PHP experience and still discovering new depths
+- 🔌 Shipped dozens of custom WordPress plugins, cleanly documented
+- 🛒 WooCommerce specialist — complex stores are my comfort zone
+- 📚 Lifelong learner — there's always another layer to explore
+- 🌙 Night owl coder — deep focus mode kicks in after **10 PM** 🦉
 
 ---
 
-## 💬 Quotes I Live By
+## 💬 Quotes I Sail By
 
 <div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
-
----
 
 > *"Make it work, make it right, make it fast."*
 > — **Kent Beck**
 
 ---
 
-> *"Simplicity is the soul of efficiency."*
-> — **Austin Freeman**
+> *"Simplicity is the ultimate sophistication."*
+> — **Leonardo da Vinci**
 
 ---
 
-> *"The best code is no code at all."*
-> — **Jeff Atwood**
-
----
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"Programs must be written for people to read."*
 > — **Harold Abelson**
 
 </div>
 
 ---
 
-## 📬 Let's Build Something Solid
-
 <div align="center">
 
-### Got a WordPress or PHP project? Let's turn it into something exceptional.
-
-<br/>
-
-<a href="mailto:abdulislam@email.com">
-  <img src="https://img.shields.io/badge/📧 Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://calendly.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/📅 Book a Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/💼 Hire on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulislam&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=inzamam&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD700,40:00FF88,100:0A1A0A&height=120&section=footer&animation=blinking" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:90E0EF,50:00B4D8,100:001F3F&height=120&section=footer&animation=twinkling" />
 
 </div>
