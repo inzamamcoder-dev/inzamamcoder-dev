@@ -191,7 +191,7 @@
 ## 🧩 Fun Facts
 
 - 🌊 I write PHP the way water flows — **naturally and without friction**
-- 🐘 4+ years of PHP experience and still discovering new depths
+- 🐘 8+ years of PHP experience and still discovering new depths
 - 🔌 Shipped dozens of custom WordPress plugins, cleanly documented
 - 🛒 WooCommerce specialist — complex stores are my comfort zone
 - 📚 Lifelong learner — there's always another layer to explore
