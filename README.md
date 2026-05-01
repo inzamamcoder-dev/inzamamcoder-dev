@@ -23,8 +23,8 @@
 {
   "name"      : "Inzamam",
   "role"      : "PHP Developer & WordPress Specialist",
-  "location"  : "🇵🇰 Pakistan → 🌍 Global",
-  "experience": "4+ Years",
+  "location"  : "UK → 🌍 Global",
+  "experience": "8+ Years",
   "stack"     : ["PHP", "WordPress", "Laravel", "WooCommerce"],
   "available" : true,
   "passion"   : "Delivering elegant solutions to complex problems"
